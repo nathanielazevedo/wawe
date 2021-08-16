@@ -2,7 +2,7 @@
 
 import restaurant from "./restaurant.jpeg";
 
-function Choice() {
+function Choice()  {
   return (
     <div className="choice"  >
       <img src={restaurant} alt="restaurant"/>

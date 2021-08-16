@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wawe/static/css/main.703eb876.chunk.css",
+    "main.js": "/wawe/static/js/main.d5564730.chunk.js",
+    "main.js.map": "/wawe/static/js/main.d5564730.chunk.js.map",
+    "runtime-main.js": "/wawe/static/js/runtime-main.380b1a09.js",
+    "runtime-main.js.map": "/wawe/static/js/runtime-main.380b1a09.js.map",
+    "static/js/2.50c82824.chunk.js": "/wawe/static/js/2.50c82824.chunk.js",
+    "static/js/2.50c82824.chunk.js.map": "/wawe/static/js/2.50c82824.chunk.js.map",
+    "static/js/3.aee03b04.chunk.js": "/wawe/static/js/3.aee03b04.chunk.js",
+    "static/js/3.aee03b04.chunk.js.map": "/wawe/static/js/3.aee03b04.chunk.js.map",
+    "index.html": "/wawe/index.html",
+    "static/css/main.703eb876.chunk.css.map": "/wawe/static/css/main.703eb876.chunk.css.map",
+    "static/js/2.50c82824.chunk.js.LICENSE.txt": "/wawe/static/js/2.50c82824.chunk.js.LICENSE.txt",
+    "static/media/restaurant.e608ab8d.jpeg": "/wawe/static/media/restaurant.e608ab8d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.380b1a09.js",
+    "static/js/2.50c82824.chunk.js",
+    "static/css/main.703eb876.chunk.css",
+    "static/js/main.d5564730.chunk.js"
+  ]
+}
